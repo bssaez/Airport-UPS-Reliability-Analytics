@@ -157,7 +157,6 @@ This project was documented following CRISP-DM principles and includes:
 
 ## 🚀 Future Improvements
 
-- Real-time SCADA integration.
 - Automatic data refresh.
 - Reliability KPIs (MTBF / MTTR).
 - Predictive maintenance indicators.
