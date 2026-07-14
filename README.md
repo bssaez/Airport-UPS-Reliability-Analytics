@@ -1,6 +1,6 @@
 # Airport UPS Reliability Analytics
 
-Business Intelligence project developed in **Power BI** to analyze historical UPS event logs exported during preventive maintenance at **Tocumen International Airport (Panama)**.
+Business Intelligence project developed using historical UPS event logs from a real airport maintenance environment.
 
 ---
 
