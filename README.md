@@ -179,7 +179,7 @@ Airport-UPS-Reliability-Analytics/
 
 ## 👩‍💻 Author
 
-**Kiara Barrios**
+**K Barrios**
 
 Electronics & Telecommunications Engineer  
 Junior Data Analyst | SQL | Power BI | Analytics
